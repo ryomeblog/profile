@@ -1,19 +1,19 @@
 # プロフィール
-最終更新:2022/11/01
+最終更新:2023/01/05
 
 ## 基本情報
 
-| 項目        | 内容                                        | QR                                    | 備考                                                                                         |
-| ----------- | ------------------------------------------- | ------------------------------------- | -------------------------------------------------------------------------------------------- |
-| Qiita       | [@ryome](https://qiita.com/ryome)           | ![Qiita](./img/qiita.png)             | 技術的な知見のアウトプットの場として活用。主にコーディングや環境構築、個人開発について投稿。 |
+| 項目         | 内容                                        | QR                                    | 備考                                                                                         |
+| ------------ | ------------------------------------------- | ------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Qiita        | [@ryome](https://qiita.com/ryome)           | ![Qiita](./img/qiita.png)             | 技術的な知見のアウトプットの場として活用。主にコーディングや環境構築、個人開発について投稿。 |
 | Speaker Deck | [@ryome](https://speakerdeck.com/ryome)     | ![Speakerdeck](./img/speakerdeck.png) | 技術や環境構築のスライド管理として活用。                                                     |
-| Zenn        | [@ryome](https://zenn.dev/ryome)            | ![Zenn](./img/zenn.png)               | 技術的な知見のアウトプットの場として活用。Qiitaより詳細かつ長編なコンテンツ。                |
-| GitHub      | [@ryomeblog](https://github.com/ryomeblog)  | ![GitHub](./img/github.png)           | Qiitaで紹介したコードや個人開発した成果物の保存場所として活用。                              |
-| Twitter     | [@ryomeblog](https://twitter.com/ryomeblog) | ![Twitter](./img/twitter.png)         | 最新技術に関する情報発信の場として活用。                                                     |
+| Zenn         | [@ryome](https://zenn.dev/ryome)            | ![Zenn](./img/zenn.png)               | 技術的な知見のアウトプットの場として活用。Qiitaより詳細かつ長編なコンテンツ。                |
+| GitHub       | [@ryomeblog](https://github.com/ryomeblog)  | ![GitHub](./img/github.png)           | Qiitaで紹介したコードや個人開発した成果物の保存場所として活用。                              |
+| Twitter      | [@ryomeblog](https://twitter.com/ryomeblog) | ![Twitter](./img/twitter.png)         | 最新技術に関する情報発信の場として活用。                                                     |
 
 ## スキル
 
-### プログラミング言語
+### プログラミング
 
 JavaScript | TypeScript | Java | Python | PHP | GO（勉強中） | VBA | OutSystems
 
@@ -21,19 +21,47 @@ JavaScript | TypeScript | Java | Python | PHP | GO（勉強中） | VBA | OutSys
 
 AngularJS | Vue.js | React | jQuery | SpringFramework | Seasar2 | MyBatis | JUnit | FastAPI | Django | FuelPHP
 
-### RDB
+### DB
 
-MySQL | Oracle | PostgreSQL | SQL Server
+MySQL | Oracle | PostgreSQL | SQL Server | SQLite | GraphQL
 
 ### クラウド（AWS）
 
-EC2 | ECS | S3 | RDS(MySQL, PostgreSQL) | VPC | CloudWatch | Route53 | SNS | Lambda
-
-### VCS
-
-GitHub | GitBucket | GitLab | Subversion
+EC2 | ECS | S3 | RDS(MySQL, PostgreSQL) | VPC | CloudWatch | Route53 | SNS | Lambda | CodeCommit | CodeBuild | CodePipeline | CloudFormation
 
 ### その他
 
-Swagger | Terraform | Docker | Kubernetes | Heroku | Jenkins | Blockchain | Apache | Nginx | Tomcat | Resin | intra-mart
+Swagger | Terraform | Docker | Kubernetes | Heroku | Jenkins | Blockchain | Apache | Nginx | Tomcat | Resin | intra-mart | GitHub | GitBucket | GitLab | Subversion
 
+
+## こういうことが出来ます
+
+| 出来ること                                                                                       | 説明                                                                                                        |
+| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| [LambdaのCI/CDパイプライン構築](https://github.com/ryomeblog/lambda-test-cfn-pipeline)           | CloudFormationでLambdaのCI/CDパイプライン構築が出来ます。                                                   |
+| [Docker-composeでSpringBoot×PostgreSQL環境構築](https://github.com/ryomeblog/docker-spring-psql) | 環境をコンテナ化したり、Swaggerを使用して設計工数を減らしたり、SpringBoot(Java)でREST APIの開発が出来ます。 |
+
+※ Qiitaの内容は以下の記事にまとめています。
+[今まで投稿した記事をカテゴリ別にまとめてみた](https://qiita.com/ryome/items/db792d76bd72ea9d5c2a)
+
+## 今後作りたいもの（アイデア）
+
+| 作りたい                                                     | 説明                                                                                                                                                                                                 |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ページ内の繰り返し要素をjson, csvに変換するChrome拡張機能    | Chrome拡張機能でボタンを押すと、正規表現を入力して繰り返し要素の中身をjsonでダウンロードできる。設定でcsvにもできる。                                                                                |
+| 投資計算アプリ                                               | 銘柄からインカムとキャピタルの計算をしてくれる。目標金額を設定して何年で達成できるか教えてくれる。json,csvにエクスポートできる。                                                                     |
+| DB情報からSwaggerを自動生成                                  | DB情報からSwaggerを作成。CRUDのAPIを作成してくれる。MyBatisみたいな感じ。                                                                                                                            |
+| 家系図アプリ                                                 | JSON食わせたら家系図を画像（SVG）で返してくれる。                                                                                                                                                    |
+| スマホに特化したフローチャート作成アプリ                     | スマホでフローチャートを書きたい、見たい。jsonかCSVでエクスポート出来るようにしてほしい。                                                                                                            |
+| 目覚ましアプリ                                               | アラームをグループ化できる。1つのアラームを停止するとそのグループのアラームはその日はならなくなる。<br/>スマートスピーカーと連動して、「〜グループに○時のアラーム追加して」で追加できる              |
+| 助成金等をまとめて自分に当てはまる支援金を勧めてくれるアプリ | プロフィールだけ入力して、当てはまるものだけ表示。需要ありそう。でも、メンテ大変そう。                                                                                                               |
+| いろんなソフトやエディタのショートカットを練習できるアプリ   | ゲーム方式で問題を解いていくうちにショートカットを身につけられる。                                                                                                                                   |
+| 利用規約からおかしい部分を自動で見つけてくれるアプリ         | 賃貸契約書の特約事項とかのやばい部分を教えてくれると嬉しい。単純に読みたくない。<br/>ChatGPTみたいな感じで、「原状回復をめぐるトラブルとガイドライン」とかを学習してどうおかしいのか指摘して欲しい。 |
+
+## 作ったもの
+
+| 作ったもの                                                                                                                                                                                                                                                               | 説明                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [医療情報技師試験対策サイト](https://github.com/ryomeblog/hit)                                                                                                                                                                                                           | 医療情報技師の過去問サイトでなかなか良いものがなかったので作った。[Qiitaで経緯等を解説。](https://qiita.com/ryome/items/9f9ae5a644b27fe6106e)                                                                                                                                                                 |
+| [日本語を英訳してくれるLineBot](https://github.com/ryomeblog/qiita/tree/master/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E8%8B%B1%E8%A8%B3%E3%81%97%E3%81%A6%E8%BF%94%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8BLineBot%E3%82%92%E4%BD%9C%E3%82%8B) | LINEでチャット中にgoogle翻訳を開くのが手間だったため作った。[Qiitaで作り方を解説。](https://qiita.com/ryome/items/6628571619c6582e272b)                                                                                                                                                                       |
+| [ファイルサイズ分割アプリ](https://github.com/ryomeblog/qiita/tree/master/Github%E3%81%AB100MB%E4%BB%A5%E4%B8%8A%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E3%83%97%E3%83%83%E3%82%B7%E3%83%A5%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)                          | ファイルサイズを簡単に分割するアプリ。テキストファイルなのでチャットで共有できるのが嬉しい。<br/>分割後、各ファイルを暗号化して共有するのも良い。用途は色々。テキストファイルなので元のファイルよりサイズが重くなるのが難点。[Qiitaで使い方を解説](https://qiita.com/ryome/items/6df4ddac18795366f207#github) |
