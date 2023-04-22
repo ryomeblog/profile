@@ -1,5 +1,5 @@
 # プロフィール
-最終更新:2023/04/17
+最終更新:2023/04/22
 
 ## 発信情報
 
@@ -42,7 +42,7 @@ Docker | Kubernetes | Swagger | Terraform | Jenkins | Blockchain | Apache | Ngin
 | Jmeterを使用したシステム性能試験の構築・運用                                                            | Jmeterを使用してアプリケーションのシステムのスケーラビリティの評価やボトルネックの特定、安定性の確認等が出来ます。                                                                                                                 |
 | Amplifyを使用して爆速アプリケーション開発                                                               | Figma × Amplifyを使用して開発を効率化させることやJestを使用した試験の自動化、GoogleアナリティクスやCloudWatch RUMを使用したアクセス分析ができます。<br/>[QiitaでAmplifyを解説](https://qiita.com/ryome/items/e70f7d192efa67524df9) |
 | [DockerComposeを使用したSpringBoot×PostgreSQL環境構築](https://github.com/ryomeblog/docker-spring-psql) | 開発環境をコンテナ化して環境差異を無くしたり、Swaggerを使用してAPI設計の工数を減らしたり、RESTfulなAPI開発が出来ます。                                                                                                             |
-| レスポンシブなWEBアプリ開発                                                                             | Angular, Vue, Reactを使用してSPA構成でレスポンシブなWEBアプリ開発が出来ます。CSSによるアニメーションや動的なOGP画像、ボタンの活性・非活性制御、多重モーダルウィンドウなど様々なユースケースに対応可能です。                        |
+| Angular, Vue, Reactを使用したSPA構成のWEBアプリ開発                                                                             | Angular, Vue, Reactを使用してSPA構成でレスポンシブなWEBアプリ開発が出来ます。CSSによるアニメーションや動的なOGP画像、ボタンの活性・非活性制御、多重モーダルウィンドウなど様々なユースケースに対応可能です。                        |
 
 ※ Qiitaの内容は以下の記事にまとめています。
 
