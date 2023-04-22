@@ -107,7 +107,7 @@ Docker | Kubernetes | Swagger | Terraform | Jenkins | Blockchain | Apache | Ngin
 
 ### 2021年
 
-**■ プロジェクト**
+**■ プロジェクト一覧**
 
 - 光回線事業者向け契約管理システム開発
 - 某通信建信会社様向け資材管理WEBシステム改修
