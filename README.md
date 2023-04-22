@@ -19,7 +19,7 @@ JavaScript | TypeScript | Java | Python | PHP | GO | VBA | OutSystems
 
 ### フレームワーク、ライブラリ等
 
-Angular | Vue.js | React | jQuery | SpringFramework | Seasar2 | MyBatis | JUnit | FastAPI | Django | FuelPHP
+Angular | Vue | React | jQuery | SpringFramework | Seasar2 | MyBatis | JUnit | FastAPI | Django | FuelPHP
 
 ### DB
 
