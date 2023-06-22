@@ -44,6 +44,7 @@ Docker | Kubernetes | Swagger | Terraform | Jenkins | Blockchain | Apache | Ngin
 | Amplifyを使用して爆速アプリケーション開発                                                               | Figma × Amplifyを使用して開発を効率化させることやJestを使用した試験の自動化、GoogleアナリティクスやCloudWatch RUMを使用したアクセス分析ができます。<br/>[QiitaでAmplifyを解説](https://qiita.com/ryome/items/e70f7d192efa67524df9) |
 | [DockerComposeを使用したSpringBoot×PostgreSQL環境構築](https://github.com/ryomeblog/docker-spring-psql) | 開発環境をコンテナ化して環境差異を無くしたり、Swaggerを使用してAPI設計の工数を減らしたり、RESTfulなAPI開発が出来ます。<br/>[QiitaでSpringBoot×PostgreSQL環境構築を解説](https://qiita.com/ryome/items/6a4bfa37af8adc702395)        |
 | Angular, Vue, Reactを使用したSPA構成のWEBアプリ開発                                                     | Angular, Vue, Reactを使用してSPA構成でレスポンシブなWEBアプリ開発が出来ます。CSSによるアニメーションや動的OGP画像、ボタンの活性・非活性制御、多重モーダルウィンドウなど様々なユースケースに対応可能です。                          |
+| AppSyncのSubscriptionを利用したリアルタイム性が求められるWEBアプリ開発                                    | WebSocketを利用するチャットアプリやリアルタイムチャート、オンラインゲーム等のリアルタイム性が求められるWEBアプリ開発ができます。インフラ構成の設計からアプリ実装まで幅広く対応可能です。追加でMicrosoft Teamsやメールへの通知、Cognito認証（Google, Facebook, LINE）などにも対応できます。              |
 
 ※ Qiitaの内容は以下の記事にまとめています。
 
