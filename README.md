@@ -28,7 +28,7 @@ MySQL | Oracle | PostgreSQL | SQL Server | SQLite | GraphQL | DynamoDB
 
 ### クラウド（AWS）
 
-Amplify | AppSync | Lambda | CloudFormation | CodeCommit | CodeBuild | CodePipeline | ECS | EC2 | S3 | RDS(MySQL, PostgreSQL) | VPC | CloudWatch | Route53 | SNS | SQS
+Amplify | AppSync | Lambda | CloudFormation | CDK | CodeCommit | CodeBuild | CodePipeline | ECS | EC2 | S3 | RDS(MySQL, PostgreSQL) | VPC | CloudWatch | Route53 | SNS | SQS
 
 ### その他
 
