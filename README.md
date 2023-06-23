@@ -116,7 +116,7 @@ Docker | Kubernetes | Swagger | Terraform | Jenkins | Blockchain | Apache | Ngin
 **■ プロジェクト一覧**
 
 - 光回線事業者向け契約管理システム開発
-- 某通信建信会社向け資材管理WEBシステム改修
+- 某通信建信会社向け販売管理WEBシステム改修
 
 **■ 担当業務**
 
