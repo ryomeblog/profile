@@ -20,11 +20,11 @@ JavaScript | TypeScript | Java | Python | PHP | GO | VBA | OutSystems
 
 ### フレームワーク、ライブラリ等
 
-Angular | Vue | React | Jest | jQuery | SpringFramework | Seasar2 | MyBatis | JUnit | Flask | FastAPI | Django | FuelPHP
+Angular | Vue | React | Jest | jQuery | GraphQL | SpringFramework | Seasar2 | MyBatis | JUnit | Flask | FastAPI | Django | FuelPHP
 
 ### DB
 
-MySQL | Oracle | PostgreSQL | SQL Server | SQLite | GraphQL | DynamoDB
+MySQL | Oracle | PostgreSQL | SQL Server | SQLite | DynamoDB
 
 ### クラウド（AWS）
 
