@@ -32,7 +32,7 @@ Amplify | AppSync | Lambda | CloudFormation | CDK | CodeCommit | CodeBuild | Cod
 
 ### その他
 
-Docker | Kubernetes | Swagger | Terraform | Jenkins | GraphAPI | Blockchain | Apache | Nginx | Tomcat | Resin | intra-mart | GitHub | GitBucket | GitLab | Subversion
+Docker | Kubernetes | Swagger | Terraform | Jenkins | Microsoft GraphAPI | Blockchain | Apache | Nginx | Tomcat | Resin | intra-mart | GitHub | GitBucket | GitLab | Subversion
 
 
 ## こういうことが出来ます
