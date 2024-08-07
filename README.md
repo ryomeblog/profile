@@ -64,6 +64,8 @@ Docker | Kubernetes | Swagger | Terraform | Jenkins | Microsoft GraphAPI | JMete
 | 投資計算等を含めたライフプランアプリ ※制作中                                                                                                                                                         | ライフプランを何パターンも管理できるアプリ。投資計算や老後の資金などお金の計算をするため作成。[GitHubにコードを公開。](https://github.com/ryomeblog/lifeplanapp)                                                                                                                                                                                                                |
 | 食費と自炊ルーティン管理アプリ（2cook） ※制作休止中                                                                                                                                                  | お財布にも優しい自炊のルーティン化を目指して、食費管理から自炊ルーティンまで効率的に行うため作成。[GitHubにコードを公開。](https://github.com/ryomeblog/lifeplanapp)                                                                                                                                                                                                            |
 
+| エラー文を可愛いキャラが説明してくれるCLI                                                                                                                                                  | 可愛いキャラがエラー内容の原因と対処法を教えてくれる。エラー時に即何が原因でどういったアクションを取れば良いのか判断できるようにするために作成。可愛いキャラにしたのはモチベアップのため。[GitHubにコードを公開。](https://github.com/ryomeblog/convert-character-cmd)                                                                                                                                                                                                            |
+
 
 ## 今後作りたいもの（アイデア）
 
