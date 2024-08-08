@@ -123,6 +123,7 @@ CloudFormation, CDK, IaC, Cognito, CodeCommit, CodeBuild, CodeDeploy, CodePipeli
 WebSocketを利用した既読機能や即時チャット反映などリアルタイム性が求められるユースケースに対応。
 CDKを使用してインフラをコード管理することで、再現性のあるインフラ構成と手動構築コストを削減し、プロジェクトの生産性に大きく貢献。
 
+---
 
 ### 2022年
 
@@ -154,6 +155,8 @@ Java, Spring, Angular, Vue, Jenkins, MyBatis, JUnit, JMeter, PostgreSQL, jQuery,
 
 システムの限界性能試験を実施し、システムのスケーラビリティ評価やボトルネックの特定、サービスの安定性等を明確にし、次回の案件受注に貢献。
 また、リバースエンジニアリングによる設計書の作成も同時に実施し、品質向上に貢献。
+
+---
 
 ### 2021年
 
