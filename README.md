@@ -16,21 +16,31 @@
 
 ### プログラミング
 
-JavaScript | TypeScript | GO | Java | Python | Mojo | PHP | GraphQL | VBA | OutSystems
+<img src="https://skillicons.dev/icons?i=javascript,typescript,golang,java,python,php,graphql" />
+
+JavaScript | TypeScript | GO | Java | Python | PHP | GraphQL | Mojo | VBA | OutSystems
 
 ### フレームワーク、ライブラリ等
+
+<img src="https://skillicons.dev/icons?i=next,angular,vue,react,jest,jquery,spring,flask,fastapi,django" />
 
 Next.js | Angular | Vue | React | Playwright | Jest | jQuery | SpringFramework | Seasar2 | MyBatis | JUnit | Flask | FastAPI | Django | FuelPHP
 
 ### DB
 
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,dynamodb" />
+
 MySQL | Oracle | PostgreSQL | SQL Server | SQLite | DynamoDB
 
 ### クラウド（AWS）
 
+<img src="https://skillicons.dev/icons?i=aws" />
+
 Amplify | AppSync | Lambda | CloudFormation | CDK | CodeCommit | CodeBuild | CodePipeline | ECS | EC2 | S3 | Aurora | VPC | CloudWatch | Route53 | SNS | SQS
 
 ### その他
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git,github,gitlab" />
 
 Docker | Kubernetes | Swagger | Terraform | Jenkins | Microsoft GraphAPI | JMeter | Blockchain | Resin | intra-mart | GitHub | GitBucket | GitLab | Subversion
 
