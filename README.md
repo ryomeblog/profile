@@ -10,8 +10,6 @@
 | Zenn         | [@ryome](https://zenn.dev/ryome)            | ![Zenn](./img/zenn.png)               | 技術的な知見のアウトプットの場として活用。Qiitaより詳細かつ長編なコンテンツ。                |
 | GitHub       | [@ryomeblog](https://github.com/ryomeblog)  | ![GitHub](./img/github.png)           | Qiitaで紹介したコードや個人開発した成果物の保存場所として活用。                              |
 | Twitter      | [@ryomeblog](https://twitter.com/ryomeblog) | ![Twitter](./img/twitter.png)         | 最新技術に関する情報発信の場として活用。                                                     |
-
-
 ## スキル
 
 ### プログラミング
@@ -40,9 +38,9 @@ Amplify | AppSync | Lambda | CloudFormation | CDK | CodeCommit | CodeBuild | Cod
 
 ### その他
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git,github,gitlab" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git,github,gitlab,figma" />
 
-Docker | Kubernetes | Swagger | Terraform | Jenkins | Microsoft GraphAPI | JMeter | Blockchain | Resin | intra-mart | GitHub | GitBucket | GitLab | Subversion
+Docker | Kubernetes | Swagger | Terraform | Jenkins | Microsoft GraphAPI | JMeter | Blockchain | Resin | intra-mart | GitHub | GitBucket | GitLab | Subversion | Figma
 
 
 ## こういうことが出来ます
