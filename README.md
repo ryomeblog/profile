@@ -132,6 +132,10 @@ CDKを使用してインフラをコード管理することで、再現性の�
 - Web, Android・iOS, デスクトップアプリで利用可能なオンラインストレージサービス運用・保守
 - コンシューマ向け電子おくすり手帳WEB・スマホアプリ運用・保守
 
+**■ 技術キーワード**
+
+Java, Spring, Angular, Vue, Jenkins, MyBatis, JUnit, JMeter, PostgreSQL, jQuery, GitLab, GitBucket
+
 **■ 担当業務**
 
 限界性能把握を目的とした性能試験の実施、限界性能試験のワークロード定義書の作成、
@@ -139,10 +143,6 @@ CDKを使用してインフラをコード管理することで、再現性の�
 性能劣化に影響しているSQL・APIの調査・改修、性能改善を目的としたインデックス再構築、
 商用アクセス数を再現する全体性能試験、障害・故障対応、スロークエリの調査・改修、
 ソースコードレビュー、Git管理、新規参入者向けの環境整備、リーダ補佐
-
-**■ 技術キーワード**
-
-Java, Spring, Angular, Vue, Jenkins, MyBatis, JUnit, JMeter, PostgreSQL, jQuery, GitLab, GitBucket
 
 **■ 発揮したバリュー**
 
