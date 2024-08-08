@@ -99,7 +99,8 @@ Docker | Kubernetes | Swagger | Terraform | Jenkins | Microsoft GraphAPI | JMete
 - Pythonコーディング規約作成
 - 某金融会社向け配信基盤の開発
 - 某証券会社向けリアルタイムチャットアプリの開発
-- 診断サイトの短期開発
+- 性格診断サイトの短期開発
+- SmartHRと健康アプリの連携
 
 **■ 技術キーワード**
 
