@@ -147,7 +147,12 @@ OpenShift（Kubernetes）, Docker, CloudFormation, CDK, IaC, Cognito, CodeCommit
 
 **■ 担当業務**
 
-インフラ構成検討・設計、データ定義設計、試験自動化導入、試験レポート自動作成、Git管理、FigmaからReactコード変換、GraphQLスキーマ定義、ROSA（OpenShift）を利用した配信基盤実装、ネットワーク検討・設計、Pandasの高速化に挑戦
+- インフラ構成検討、データ設計
+  - Amplifyを利用したFigmaからReactコード生成および開発
+  - GraphQLスキーマ定義
+  - 試験自動化導入
+- Git管理、ROSA（OpenShift）を利用した開発基盤実装、ネットワーク検討・設計
+- Pandasの高速化に挑戦
 
 **■ 発揮したバリュー**
 
