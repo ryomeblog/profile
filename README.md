@@ -34,7 +34,7 @@ MySQL | Oracle | PostgreSQL | SQL Server | SQLite | DynamoDB
 
 <img src="https://skillicons.dev/icons?i=aws" />
 
-Amplify | AppSync | Lambda | CloudFormation | CDK | CodeCommit | CodeBuild | CodePipeline | ECS | EC2 | S3 | Aurora | VPC | CloudWatch | Route53 | SNS | SQS
+Amplify | AppSync | Lambda | CloudFormation | CDK | CodeCommit | CodeBuild | CodePipeline | ECS | ECR | Fargate | EC2 | S3 | Aurora | VPC | CloudWatch | Route53 | SNS | SQS
 
 ### その他
 
