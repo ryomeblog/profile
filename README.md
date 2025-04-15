@@ -8,7 +8,7 @@
 | Speaker Deck | [@ryome](https://speakerdeck.com/ryome)     | ![Speakerdeck](./img/speakerdeck.png) | 技術や環境構築のスライド管理として活用。                                                     |
 | Zenn         | [@ryome](https://zenn.dev/ryome)            | ![Zenn](./img/zenn.png)               | 技術的な知見のアウトプットの場として活用。Qiitaより詳細かつ長編なコンテンツ。                |
 | GitHub       | [@ryomeblog](https://github.com/ryomeblog)  | ![GitHub](./img/github.png)           | Qiitaで紹介したコードや個人開発した成果物の保存場所として活用。                              |
-| Twitter      | [@ryomeblog](https://twitter.com/ryomeblog) | ![Twitter](./img/twitter.png)         | 最新技術に関する情報発信の場として活用。                                                     |
+| X            | [@ryomeblog](https://x.com/ryomeblog) | ![X](./img/twitter.png)         | 最新技術に関する情報発信の場として活用。                                                     |
 
 ## スキル
 
