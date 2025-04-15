@@ -1,0 +1,12 @@
+`qr-generator` の詳細は以下のリンクへ
+
+https://www.npmjs.com/package/@ryome/qr-generator
+
+```
+qr-generator -s 128 -e H -m 2 -d "#FF00FF" -l "#FFFFFF" -o github.png github.txt
+qr-generator -s 128 -e H -m 2 -d "#33FF33" -l "#FFFFFF" -o qiita.png qiita.txt
+qr-generator -s 128 -e H -m 2 -d "#009900" -l "#FFFFFF" -o speakerdeck.png speakerdeck.txt
+qr-generator -s 128 -e H -m 2 -d "#000000" -l "#FFFFFF" -o x.png x.txt
+qr-generator -s 128 -e H -m 2 -d "#33FFFF" -l "#FFFFFF" -o zenn.png zenn.txt
+qr-generator -s 128 -e H -m 2 -d "#FF3333" -l "#FFFFFF" -o npm.png npm.txt
+```
