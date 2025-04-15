@@ -114,7 +114,7 @@ Docker, ECS, CloudFormation, CDK, IaC, Cognito, CodeCommit, CodeBuild, CodeDeplo
 - Next.jsにおけるSSRとSSGを考慮した開発
 - OpenAPIを利用したバックエンドIFの自動生成
 - 多言語化対応
-- リーダーとしてのテックリードやコードレビュー、タスク管理、出荷審査等
+- リーダー（テックリード）としてAI開発導入のアプローチやスクラム開発の推進、コードレビュー、タスク管理、出荷審査等
 
 **■ 発揮したバリュー**
 
