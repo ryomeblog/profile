@@ -81,13 +81,15 @@ Docker | Kubernetes | Swagger | Terraform | Jenkins | Microsoft GraphAPI | JMete
 | エラー文を可愛いキャラが説明してくれる CLI                                                                                       | 可愛いキャラがエラー内容の原因と対処法を教えてくれる。エラー時に即何が原因でどういったアクションを取れば良いのか判断できるようにするために作成。可愛いキャラにしたのはモチベアップのため。[GitHub にコードを公開。](https://github.com/ryomeblog/convert-character-cmd)                                                                                                                                                                                                     |
 | ファイル暗号化・復号化ツール                                                                                                     | 自宅の NAS サーバで重要書類などのファイルも管理するようになったため、セキュリティ面を気にして開発。今後はスマホアプリなども視野に入れファイルの閲覧なども完結できるようにしていきたい。[GitHub にコードを公開。](https://github.com/ryomeblog/encdec)                                                                                                                                                                                                                       |
 
+※ 今後作りたいものは[こちら](./detail/Detail.md)
+
 ## 経歴
 
 ### 2024 年
 
 **■ プロジェクト一覧**
 
-- 観光向け SaaS の自社開発
+- 観光向けSaaSの自社開発
 
 **■ 技術キーワード**
 
