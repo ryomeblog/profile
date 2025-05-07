@@ -9,7 +9,7 @@
 | Zenn         | [@ryome](https://zenn.dev/ryome)           | <img src="./img/zenn.png" height="70" width="70">        | 技術的な知見のアウトプットの場として活用。Qiita より詳細かつ長編なコンテンツ。               |
 | GitHub       | [@ryomeblog](https://github.com/ryomeblog) | <img src="./img/github.png" height="70" width="70">      | Qiita で紹介したコードや個人開発した成果物の保存場所として活用。                             |
 | X            | [@ryomeblog](https://x.com/ryomeblog)      | <img src="./img/x.png" height="70" width="70">           | 最新技術に関する情報発信の場として活用。                                                     |
-| npm          | [@ryome](https://www.npmjs.com/~ryome)     | <img src="./img/npm.png" height="70" width="70">         | CLI 公開の場として活用。                                                                     |
+| npm          | [@ryome](https://www.npmjs.com/~ryome)     | <img src="./img/npm.png" height="70" width="70">         | 自作した CLI 公開の場として活用。                                                                     |
 
 ## スキル
 
