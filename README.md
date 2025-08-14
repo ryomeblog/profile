@@ -90,7 +90,7 @@ Docker | Kubernetes | OpenShift | Swagger | Terraform | Jenkins | Microsoft Grap
 
 **■ プロジェクト一覧**
 
-- 観光向けSaaSの自社開発
+- 観光向け予約管理SaaSの自社開発
 
 **■ 技術キーワード**
 
