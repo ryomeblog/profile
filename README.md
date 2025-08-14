@@ -21,15 +21,15 @@ JavaScript | TypeScript | GO | Java | Python | PHP | GraphQL | Markdown | Mojo |
 
 ### フレームワーク、ライブラリ等
 
-<img src="https://skillicons.dev/icons?i=next,angular,vue,react,bootstrap,express,jest,jquery,spring,flask,fastapi,django" />
+<img src="https://skillicons.dev/icons?i=next,angular,vue,react,svelte,tailwind,materialui,bootstrap,express,prisma,jest,selenium,jquery,spring,flask,fastapi,django" />
 
-Next.js | Angular | Vue | React | bootstrap | Express | Playwright | Jest | jQuery | SpringFramework | Seasar2 | MyBatis | JUnit | Flask | FastAPI | Django | FuelPHP
+Next.js | Angular | Vue | React | Svelte | Tailwind CSS | Material UI | bootstrap | Express | Prisma | Playwright | Jest | Selenium | jQuery | SpringFramework | Seasar2 | MyBatis | JUnit | Flask | FastAPI | Django | FuelPHP | Laminas
 
 ### DB
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,dynamodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,dynamodb,supabase" />
 
-MySQL | Oracle | PostgreSQL | SQL Server | SQLite | DynamoDB
+MySQL | Oracle | PostgreSQL | SQL Server | SQLite | DynamoDB | Supabase
 
 ### クラウド（AWS）
 
@@ -39,9 +39,9 @@ Amplify | AppSync | Lambda | CloudFormation | CDK | CodeCommit | CodeBuild | Cod
 
 ### その他
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git,github,gitlab,figma,heroku,bun" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift,terraform,jenkins,git,github,gitlab,figma,heroku,vite,bun,wordpress" />
 
-Docker | Kubernetes | Swagger | Terraform | Jenkins | Microsoft GraphAPI | JMeter | Blockchain | Resin | intra-mart | GitHub | GitBucket | GitLab | Subversion | Figma | heroku | bun
+Docker | Kubernetes | OpenShift | Swagger | Terraform | Jenkins | Microsoft GraphAPI | JMeter | Blockchain | Resin | intra-mart | GitHub | GitBucket | GitLab | Subversion | Figma | heroku | vite | bun | Wordpress
 
 ## こういうことが出来ます
 
