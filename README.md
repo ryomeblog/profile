@@ -102,7 +102,7 @@ Docker, ECS, CloudFormation, CDK, IaC, Cognito, CodeCommit, CodeBuild, CodeDeplo
 - セキュリティの見直し
 - Next.js における SSR と SSG を考慮した開発
 - OpenAPI を利用したバックエンド IF の自動生成
-- 多言語化対応
+- 多言語化対応（i18nを利用した言語ツリー設計）
 - リーダー（テックリード）として AI 開発導入のアプローチやスクラム開発の推進、コードレビュー、タスク管理、出荷審査等
 
 **■ 発揮したバリュー**
@@ -219,7 +219,7 @@ Java, Servlet, Spring, Angular, Seasar2, Jenkins, MyBatis, JUnit, Oracle, SQL Se
 
 **■ 担当業務**
 
-- パラレル処理を用いたメール送信バッチ開発、SPA 構成の画面改修、外部 API と連携するバッチ改修、
+- パラレル処理を用いたメール送信バッチ開発、SPA 構成の画面改修、外部 API と連携するバッチ改修
 - Jenkins を利用した CI/CD パイプライン構築
 - SQL インジェクション発生コード調査および改修
 - JUnit による単体試験の自動化
