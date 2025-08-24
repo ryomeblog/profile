@@ -41,7 +41,7 @@ Amplify | AppSync | Lambda | CloudFormation | CDK | CodeCommit | CodeBuild | Cod
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift,terraform,jenkins,git,github,gitlab,figma,heroku,vite,bun,wordpress" />
 
-CI/CD | IaC | Docker | Kubernetes | OpenShift | Swagger | Terraform | Jenkins | Microsoft GraphAPI | JMeter | Blockchain | Resin | intra-mart | GitHub | GitBucket | GitLab | Subversion | Figma | heroku | vite | bun | Wordpress
+CI/CD | IaC | Docker | Kubernetes | OpenShift | Swagger | Terraform | Jenkins | Microsoft GraphAPI | JMeter | Blockchain | Resin | intra-mart | GitHub | GitHub Actions | GitHub Copilot | GitBucket | GitLab | Subversion | Figma | heroku | vite | bun | Wordpress
 
 ## こういうことが出来ます
 
