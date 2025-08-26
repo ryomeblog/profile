@@ -23,7 +23,7 @@ JavaScript | TypeScript | GO | Java | Python | PHP | GraphQL | Markdown | Mojo |
 
 <img src="https://skillicons.dev/icons?i=next,angular,vue,react,svelte,tailwind,materialui,bootstrap,express,prisma,jest,selenium,jquery,spring,flask,fastapi,django" />
 
-Next.js | Angular | Vue | React | Svelte | Tailwind CSS | Material UI | bootstrap | Express | Prisma | Playwright | Jest | Selenium | jQuery | SpringFramework | Seasar2 | MyBatis | JUnit | Flask | FastAPI | Django | FuelPHP | Laminas
+Storybook | Next.js | Angular | Vue | React | Svelte | Tailwind CSS | Material UI | bootstrap | Express | Prisma | Playwright | Jest | Selenium | jQuery | SpringFramework | Seasar2 | MyBatis | JUnit | Flask | FastAPI | Django | FuelPHP | Laminas
 
 ### DB
 
